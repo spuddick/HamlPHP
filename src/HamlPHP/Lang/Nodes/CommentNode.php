@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 class CommentNode extends HamlNode
 {
   const HTML_COMMENT = '/';

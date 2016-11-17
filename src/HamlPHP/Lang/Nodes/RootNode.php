@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 class RootNode
 {
   protected $_children;

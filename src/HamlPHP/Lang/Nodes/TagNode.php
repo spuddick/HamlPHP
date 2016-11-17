@@ -1,6 +1,6 @@
 <?php
-
-class InvalidTagException extends Exception
+namespace HamlPHP;
+class InvalidTagException extends \Exception
 {
   public function __construct($msg)
   {

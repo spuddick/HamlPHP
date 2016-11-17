@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once 'IHamlFilter.php';
 
 class FilterContainer

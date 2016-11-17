@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once(dirname(__FILE__).'/../Util/StringHelper.php');
 /**
  * Returns a double or single quoted string. whatever works without changing the content of the string.

@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once HAMLPHP_ROOT . 'ContentEvaluator/IContentEvaluator.php';
 require_once 'IStorage.php';
 

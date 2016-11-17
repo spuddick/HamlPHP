@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once 'IContentEvaluator.php';
 
 class ContentEvaluator implements IContentEvaluator

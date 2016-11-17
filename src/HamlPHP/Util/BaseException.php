@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 /** 
  * Class BaseException 
  * 
@@ -21,7 +21,7 @@
  * 
  * @author Saulo Vallory <email@saulovallory.com>
  */
-class BaseException extends Exception
+class BaseException extends \Exception
 {
 	/**
 	 * The exception message with the placeholders

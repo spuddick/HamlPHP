@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once 'NodeFactory.php';
 
 require_once 'Filter/FilterContainer.php';

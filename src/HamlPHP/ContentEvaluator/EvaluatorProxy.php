@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once 'ContentEvaluator.php';
 
 /**

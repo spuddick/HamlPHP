@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 class FilterNode extends HamlNode
 {
 	private $_filterContainer = null;

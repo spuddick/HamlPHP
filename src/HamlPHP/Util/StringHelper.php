@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 /**
  * Utility class for multi-byte safe string operations 
  * @author Saulo Vallory <me@saulovallory.com>

@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once 'BaseObject.php';
 
 if(!defined('MATCH_MODE_HEAD_ONLY'))
@@ -129,7 +129,7 @@ if(!defined('MATCH_MODE_HEAD_ONLY'))
  * @property string       $string          Returns the string being scanned.
  * @property-read string  $matched         Returns true if the last match was successful.
  */
-class StringScanner extends BaseObject implements ArrayAccess
+class StringScanner extends BaseObject implements \ArrayAccess
 {	 
 	/** \name Magic Properties
 	 * @{

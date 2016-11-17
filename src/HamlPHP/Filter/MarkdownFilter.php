@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once 'IHamlFilter.php';
 require_once HAMLPHP_ROOT . 'vendor/MarkdownExtra/markdown.php';
 

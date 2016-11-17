@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 /**
  * @author Saulo Vallory <email@saulovallory.com>
  */

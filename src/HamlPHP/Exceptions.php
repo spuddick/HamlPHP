@@ -1,4 +1,4 @@
 <?php
-
-class SyntaxErrorException extends Exception
+namespace HamlPHP;
+class SyntaxErrorException extends \Exception
 {}

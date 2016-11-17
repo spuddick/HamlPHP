@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once 'MarkdownFilter.php';
 
 class MarkdownExtraFilter extends MarkdownFilter

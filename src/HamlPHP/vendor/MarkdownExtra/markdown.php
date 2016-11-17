@@ -1,4 +1,5 @@
 <?php
+namespace HamlPHP;
 #
 # Markdown Extra  -  A text-to-HTML conversion tool for web writers
 #

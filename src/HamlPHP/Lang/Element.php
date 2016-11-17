@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once HAMLPHP_ROOT.'/Util/StringHelper.php';
 require_once HAMLPHP_ROOT.'/HamlPHP.php';
 require_once HAMLPHP_ROOT.'/Util/StringScanner.php';

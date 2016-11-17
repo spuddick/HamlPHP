@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 class Interpolation
 {
 	const REGEXP = '/(?:\#\{([^\}]+)\})+/';

@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 require_once HAMLPHP_ROOT . 'Lang/Element.php';
 
 class ElementNode extends HamlNode

@@ -1,4 +1,5 @@
 <?php
+namespace HamlPHP;
 /**
  * This file should include all nodes in the Node package
  */

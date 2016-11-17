@@ -1,5 +1,5 @@
 <?php
-
+namespace HamlPHP;
 class HamlNode extends RootNode
 {
   private $_rawHaml;
