@@ -194,6 +194,8 @@ class HamlPHP
 		
 		$tempFileName = tempnam("/tmp", "foo");
 		$fp = fopen($tempFileName, "w");
+		$content = '<?php namespace HamlPHP; ?> ' . $content;
+
 		fwrite($fp, $content);
 		
 		// @todo: why not use eval()?
